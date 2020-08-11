@@ -1,6 +1,4 @@
-package House;
-
-import House_enum.HouseCondition;
+package House_enum;
 
 public class HouseMain {
     public static void main(String[] args) {

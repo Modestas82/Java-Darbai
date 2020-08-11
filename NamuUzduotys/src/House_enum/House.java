@@ -1,4 +1,4 @@
-package House;
+package House_enum;
 
 public class House {
 
